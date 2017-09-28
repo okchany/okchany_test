@@ -5,3 +5,10 @@ fgksadjf
 testing
 
 rebase2
+<<<<<<< HEAD
+=======
+
+rebase3
+
+push origin rebase3
+>>>>>>> rebase3
