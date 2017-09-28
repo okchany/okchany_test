@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿aaasdgadsfaaaaa 옥ddd
-=======
-aaasdgadsf
->>>>>>> parent of a7e6b98... 옥윤찬
+﻿﻿aaasdgadsfaaaaa 옥ddd
